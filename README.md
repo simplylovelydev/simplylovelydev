@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🏎️ simplylovelydev
 
-<!--
-**simplylovelydev/simplylovelydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Haha yes, boys. Simply lovely stint."
 
-Here are some ideas to get you started:
+👋 Yo! I'm **Dinesh**, a Computer Science & Artificial Intelligence student building intelligent systems at maximum velocity. Think of me as a dev with DRS permanently enabled. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 Current Telemetry (What I'm Cooking)
+* 🤖 **AI Agents & LLMs:** Building autonomic agents and intelligent workflows (peep `agastya-ai`).
+* ♟️ **Full-Stack & Systems:** Crafting highly responsive architectures and interactive arenas (like `HiveChess-Arena`).
+* 📦 **Open Source & CLIs:** Optimizing tools and working on developer velocity (`cli`).
+
+### 🧰 Tech Stack & Ecosystem
+* **Languages:** Python, Java, JavaScript, TypeScript
+* **Core Tech:** GenAI Frameworks, Prompt Engineering, API Integration
+* **Creative Focus:** Video Editing & Visual Aesthetics (Pixel-perfect rendering)
+
+---
+
+🦁 *Pushing for the purple sector on every commit. Drop a follow or check out my repos if you vibe with the code.*
