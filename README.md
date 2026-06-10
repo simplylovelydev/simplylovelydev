@@ -1,4 +1,4 @@
-# 🏎️ simplylovelydev
+# simplylovelydev 🏎️
 
 > "Haha yes, boys. Simply lovely stint."
 
@@ -15,6 +15,14 @@
 * **Languages:** Python, Java, JavaScript, TypeScript
 * **Core Tech:** GenAI Frameworks, Prompt Engineering, API Integration
 * **Creative Focus:** Video Editing & Visual Aesthetics (Pixel-perfect rendering)
+
+---
+
+### 🚦 Grid Connections (Socials)
+* 💼 **LinkedIn:** [dinesh-munagala-8272b03a4](https://www.linkedin.com/in/dinesh-munagala-8272b03a4)
+* |🤗 **Hugging Face:** [Dinesh05976](https://huggingface.co/Dinesh05976)
+* 💬 **Discord:** `dineshfr.`
+* ✉️ **Email:** [dineshmunagala670@gmail.com](mailto:dineshmunagala670@gmail.com)
 
 ---
 
